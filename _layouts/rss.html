@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Init Cyber RSS Feed</title>
+  </head>
+  <body>
+    <h1>RSS Feed for Init Cyber</h1>
+    <ul>
+      {% for post in site.posts %}
+        <li>
+          <a href="https://initcyber.com{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_rfc822 }})
+        </li>
+      {% endfor %}
+    </ul>
+  </body>
+</html>

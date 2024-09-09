@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     version="2.0">
+  <channel>
+    <title>Init Cyber</title>
+    <link>https://initcyber.com</link>
+    <description>A description of your website.</description>
+
+    {% for post in site.posts %}
+      <item>
+        <title>{{ post.title }}</title>
+        <link>https://initcyber.com{{ post.url }}</link>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <description>{{ post.excerpt }}</description>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>
