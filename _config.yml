@@ -41,10 +41,10 @@ index_description: "Hi, my name is Justin Johnson. I'm a Lead Information System
 footer_description: Hi, my name is Justin Johnson. I'm a Lead Information Systems Security Engineer/Cybersecurity Engineer and a lifelong learner.
 footer_socials:
   -
-    link: "/"
+    link: "https://www.youtube.com/@initcyber"
     icon: "youtube"
   -
-    link: "/"
+    link: "https://www.linkedin.com/in/imjustinjohnson/"
     icon: "linkedin"
   # -
   #   link: "/"
