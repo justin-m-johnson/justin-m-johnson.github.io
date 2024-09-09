@@ -1,0 +1,18 @@
+// Fonts
+$font-header: 20px/1.4 'Lato', sans;
+$font-paragraph: 20px/1.4 'Rubik', sans;
+$font-mono: 90%/1.5 'IBM Plex Mono', monospace;
+
+// Colors
+$background: #0f1219;
+$background-gradient: linear-gradient(180deg, #1a1f2c 0%, #232b3d 50%, #141820 100%);
+$headline: #fffffe;
+$paragraph: #b8c1ec;
+$button: #c5c5c5;
+$button-text: $background;
+$drop-shadow: darken($background, 10%);
+
+// Colors: Links
+$color-link: darken($button, 8%);
+$color-link-hover: $color-link;
+$color-link-active: darken($color-link-hover, 5%);

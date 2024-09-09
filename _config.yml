@@ -1,0 +1,88 @@
+#----------------------------------------
+# GENERAL SETTINGS
+#----------------------------------------
+
+# Site title, appears in the browser tab
+title: "Init Cyber"
+
+# Site description in search engine
+description: "I am an enthusiastic Information Systems Security Engineer/Cybersecurity Engineer."
+
+# Language settings for html and seo
+lang: "en_US"
+iso-lang: "en"
+
+# Production url.
+url: "https://initcyber.com"
+
+# Part after .com, etc. Use / if none
+baseurl: /
+
+
+#----------------------------------------
+# CONTENT VARIABLES
+#----------------------------------------
+
+# Posts, drafts and other collections in '_content' directory
+collections_dir: content
+
+# Collections
+collections:
+  img:
+    output: true
+    permalink: /:collection/:name
+
+# Index
+index_header: "Init Cyber"
+index_description: "Hi, my name is Justin Johnson. I'm a Lead Information Systems Security Engineer/Cybersecurity Engineer and a lifelong learner."
+
+# Footer
+# Available icons: link, youtube, twitter, facebook, linkedin, instagram
+footer_description: Hi, my name is Justin Johnson. I'm a Lead Information Systems Security Engineer/Cybersecurity Engineer and a lifelong learner.
+footer_socials:
+  -
+    link: "/"
+    icon: "youtube"
+  -
+    link: "/"
+    icon: "linkedin"
+  # -
+  #   link: "/"
+  #   icon: "link"
+  # -
+  #   link: "/"
+  #   icon: "linkedin"
+
+#----------------------------------------
+# JEKYLL SETTINGS
+#----------------------------------------
+
+# Default variables for pages. Are in use if not overwritten
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Justin"
+      img: "https://placekitten.com/1300/600"
+      tag: Post
+
+# Takes files from root folder, generates site into ./_site
+source: .
+destination: ./_site
+
+paginate: 4
+paginate_path: "page/:num/"
+
+# Excluding dev gem builds from website
+exclude: [vendor]
+
+# Jekyll plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+  - jekyll-paginate
+  - jekyll-feed
