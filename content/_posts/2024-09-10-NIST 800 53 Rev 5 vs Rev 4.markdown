@@ -3,11 +3,11 @@ layout: post
 title: "NIST 800-53 Rev 5 vs Rev 4"
 summary: "Protecting your business and Reputation"
 author: initcyber
-date: '2024-09-11 15:30:23 +0530'
-img: /assets/img/posts/2024-09-11/image.png
+date: '2024-09-10 15:30:23 +0530'
+img: /assets/img/posts/2024-09-10/image2.png
 keywords: privacy, compliance, NIST, 800-53
 usemathjax: false
-imgdate: 2024-09-11
+imgdate: 2024-09-10
 ---
 **Key Changes in NIST Special Publication 800-53 Revision 5**
 
