@@ -121,3 +121,5 @@ Highly accomplished Senior Information Assurance Analyst with 10+ years of exper
 - Technologies: Cloud (AWS, Azure, GCP, Oracle) VMware, KVM, Hyper-V
 - Tools: Ansible, Terraform, Splunk, Wazuh, Nessus, VMware, AWS, Azure, Docker, Splunk, ELK, Nessus,
 - Regulatory Compliance: NIST 800-37/800-53/800-171, Zero Trust (800-207), HIPAA, JSIG, NIST Cybersecurity Framework
+
+{%- include wakatime.html -%}
