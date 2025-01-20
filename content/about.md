@@ -11,7 +11,7 @@ Click [Here](https://justinmjohnson.com/assets/resume.pdf) for the PDF Version.
 - Location: Atlanta, GA
 - Website: [www.justinmjohnson.com](https://www.justinmjohnosn.com/)
 - LinkedIn: [imjustinjohnson](https://linkedin.com/in/imjustinjohnson)
-- GitHub: [justinmjohnson](https://github.com/justinmjohnson)
+- GitHub: [justin-m-johnson](https://github.com/justin-m-johnson)
 
 
 # Senior Information Assurance Analyst

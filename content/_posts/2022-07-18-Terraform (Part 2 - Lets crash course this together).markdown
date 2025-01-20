@@ -53,7 +53,7 @@ Also in VS code we will install the Terraform VS Code Extension. Except we will 
 
 ![Terraform VS Code Plugin](/assets/img/posts/{{page.imgdate}}/3.png){:data-align="center"}
 
-Terraform has three main stages of deployment, an Init stage, a plan stage and an apply stage. We will start with the plans and creating a new directory for Terraform to store some configuration files (which will be also found here https://github.com/justinmjohnson/homelab. We will create three files, provider.tf, ubuntu-clone.tf, and credentials.auto.tfvars. A breakdown of what these are:
+Terraform has three main stages of deployment, an Init stage, a plan stage and an apply stage. We will start with the plans and creating a new directory for Terraform to store some configuration files (which will be also found here https://github.com/justin-m-johnson/homelab. We will create three files, provider.tf, ubuntu-clone.tf, and credentials.auto.tfvars. A breakdown of what these are:
 
 provider.tf – defines variables that we will use as well as the script we will pull from Hashicorps website (in this case 2.9.10 ([Docs overview | Telmate/proxmox](https://registry.terraform.io/providers/Telmate/proxmox/latest/docs))
 
