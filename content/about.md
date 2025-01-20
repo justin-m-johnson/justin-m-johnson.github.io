@@ -3,7 +3,7 @@ layout: page
 title: Resume/About Me
 permalink: /about
 ---
-Click [Here](https://drive.google.com/file/d/170v8y3_r4q9w6pW2mYf5oOaV0eLhK-tI/view?usp=sharing) for the PDF Version.
+Click [Here](https://justinmjohnson.com/assets/resume.pdf) for the PDF Version.
 
 ## Vitals:
 - Phone: +1 850 691 9708
@@ -38,10 +38,25 @@ Highly accomplished Senior Information Assurance Analyst with 10+ years of exper
 
 # Experience
 
+## SeKON, Information Systems Auditor SME
+
+- Oct 2024 - Present
+- Atlanta, GA (Remote)
+- As an Information Systems Analyst SME/Systems Security Steward Lead, I support the CDC's mission to protect public health through innovative IT solutions and robust cybersecurity measures. Working with SeKON Enterprise, Inc., I contribute to the security, integrity, and compliance of the CDC's information systems while supporting the agency's digital transformation efforts.
+- Leading a team of Information Systems Analysts/Systems Security Stewards in supporting the CDC's mission to protect public health through innovative IT solutions and robust cybersecurity measures
+- Execute Authorization & Accreditation (A&A) processes within the NIST SP 800-37 Risk Management Framework (RMF).
+- Evaluate information systems' security control compliance with federal requirements and CDC's monitoring strategy.
+- Ensure system operations align with approved security authorization packages.
+- Vulnerability Management
+- Conduct annual assessments to ensure compliance with CDC standards.
+- Participate in Configuration Control Board (CCB) activities to manage cybersecurity-relevant configurations.
+- Provide expert guidance on cybersecurity best practices and CDC's monitoring strategy.
+- Communicate effectively with stakeholders to track and report on information system monitoring efforts.
+
 ## SeKON, Lead ISSE / Compliance Management
 
-- Aug 2020 – present
-- Rosslyn, VA
+- Aug 2020 – Oct 2024
+- Atlanta, GA (Remote)
 - Led a team of three (3) Information Systems Security Engineers, improving processes and reporting daily to Government Leadership.
 - Reviewed CISA and DISA guidance, providing recommendations for implementing best practices within the Cyber team.
 - Analyzed Executive Orders and OMB policies to offer insights on topics like Zero Trust (NIST 800-207) and NIST RMF Revision 5.
