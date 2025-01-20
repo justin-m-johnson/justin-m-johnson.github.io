@@ -137,7 +137,7 @@ Highly accomplished Senior Information Assurance Analyst with 10+ years of exper
 
 ## Hybrid Cloud Homelab
 
-- [github.com/justinmjohnson/homelab](https://github.com/justinmjohnson/homelab)
+- [github.com/justin-m-johnson/homelab](https://github.com/justin-m-johnson/homelab)
 - Currently designing and implementing a hybrid cloud homelab as a testing environment for Proof of Concept (PoC) ideas.
 - Utilizes several logging and monitoring solutions such as Splunk and Wazuh.
 - CI/CD Pipelines for automation with Github Actions.
