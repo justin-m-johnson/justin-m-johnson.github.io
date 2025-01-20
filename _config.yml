@@ -3,17 +3,17 @@
 #----------------------------------------
 
 # Site title, appears in the browser tab
-title: "Init Cyber"
+title: "Justin Johnson"
 
 # Site description in search engine
-description: "I am an enthusiastic Information Systems Security Engineer/Cybersecurity Engineer."
+description: "I am an enthusiastic Information Security Analyst Subject Matter Expert."
 
 # Language settings for html and seo
 lang: "en_US"
 iso-lang: "en"
 
 # Production url.
-url: "https://initcyber.com"
+url: "https://justinmjohnson.com"
 
 # Part after .com, etc. Use / if none
 baseurl: /
@@ -34,12 +34,12 @@ collections:
 
 
 # Index
-index_header: "Init Cyber"
-index_description: "Hi, my name is Justin Johnson. I'm a Lead Information Systems Security Engineer/Cybersecurity Engineer and a lifelong learner."
+index_header: "Welcome to my site"
+index_description: "Hi, my name is Justin Johnson. I'm a Information Security Analyst Subject Matter Expert and a lifelong learner."
 
 # Footer
 # Available icons: link, youtube, twitter, facebook, linkedin, instagram
-footer_description: Hi, my name is Justin Johnson. I'm a Lead Information Systems Security Engineer/Cybersecurity Engineer and a lifelong learner.
+footer_description: Hi, my name is Justin Johnson. I'm a Information Security Analyst Subject Matter Expert and a lifelong learner.
 footer_socials:
   -
     link: "https://www.youtube.com/@initcyber"
