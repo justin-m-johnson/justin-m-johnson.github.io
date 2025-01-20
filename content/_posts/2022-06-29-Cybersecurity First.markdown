@@ -2,7 +2,7 @@
 layout: post
 title: "Cybersecurity First"
 summary: "Welcome to my website"
-author: initcyber
+author: justinmjohnson
 date: '2022-06-29 1:35:23 +0530'
 category: ['first-post']
 tags: firstpost

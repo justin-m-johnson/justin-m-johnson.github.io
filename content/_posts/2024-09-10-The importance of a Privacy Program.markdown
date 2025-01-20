@@ -2,7 +2,7 @@
 layout: post
 title: "The importance of a Privacy Program"
 summary: "Protecting your business and Reputation"
-author: initcyber
+author: justinmjohnson
 date: '2024-09-10 06:30:23 +1530'
 img: /assets/img/posts/2024-09-10/image.png
 keywords: privacy, compliance, GAPP

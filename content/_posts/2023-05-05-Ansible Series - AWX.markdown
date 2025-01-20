@@ -2,7 +2,7 @@
 layout: post
 title:  "Ansible Series - AWX"
 summary: "In today's IT environments, Ansible is widely used as one of many various automation tools/configuration management, and products such as AWX and Ansible Tower help bring a centralized GUI..."
-author: initcyber
+author: justinmjohnson
 date: '2023-05-05 14:35:23 +0530'
 category: Ansible
 img: /assets/img/posts/2023-05-05/1.png

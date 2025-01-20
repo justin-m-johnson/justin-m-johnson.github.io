@@ -2,7 +2,7 @@
 layout: post
 title:  "Vulnerability Scanning"
 summary: "You need a vuln scanner in your homelab"
-author: initcyber
+author: justinmjohnson
 date: '2023-11-18 19:35:23 +0530'
 category: ['VulnScanner','Homelab', 'Cybersecurity']
 img: /assets/img/posts/2023-11-18/feat-1.png

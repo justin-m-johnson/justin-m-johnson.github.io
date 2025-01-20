@@ -2,7 +2,7 @@
 layout: post
 title:  "Deeper Dive into Nessus Scanning"
 summary: "Jumpstart your cybersecurity career by understanding Nessus deeper"
-author: initcyber
+author: justinmjohnson
 date: '2022-07-07 14:35:23 +0530'
 category: Nessus
 img: /assets/img/posts/2022-07-07/feat-1.png
@@ -31,7 +31,7 @@ Something is Rate Limiting my SSH commands into this VM. This tells me one of tw
 
 ![FYI, I set this up as a test for Fail2Ban, but misconfiguration can haunt you and be a learning experience](/assets/img/posts/{{page.imgdate}}/5.png){:data-align="center"}
 
-Fail2Ban (noted here in this fail2ban [blog](https://www.initcyber.com/posts/2022-07-06-Fail%20to%20Ban%20(You%20Need%20It))) was the culprit in blocking my access. Double checking Nessus Plugin [19506](https://www.tenable.com/plugins/nessus/19506) (Nessus Scan Information) tells us that we weren’t getting Credentialed Scans either (another factor that you aren’t getting good scans)
+Fail2Ban (noted here in this fail2ban [blog](https://www.justinmjohnson.com/posts/2022-07-06-Fail%20to%20Ban%20(You%20Need%20It))) was the culprit in blocking my access. Double checking Nessus Plugin [19506](https://www.tenable.com/plugins/nessus/19506) (Nessus Scan Information) tells us that we weren’t getting Credentialed Scans either (another factor that you aren’t getting good scans)
 
 ![Credentialed checks : no](/assets/img/posts/{{page.imgdate}}/6.png){:data-align="center"}
 

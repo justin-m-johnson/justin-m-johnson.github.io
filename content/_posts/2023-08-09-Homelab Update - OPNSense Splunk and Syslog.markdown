@@ -2,7 +2,7 @@
 layout: post
 title:  "Homelab Update - OPNSense Splunk and Syslog"
 summary: "As part of the Homelab revamp, I decided it best to completely blow away all of the VM's and start fresh. "
-author: initcyber
+author: justinmjohnson
 date: '2023-08-09 14:35:23 +0530'
 category: Homelab
 img: /assets/img/posts/2023-08-09/feat-1.png

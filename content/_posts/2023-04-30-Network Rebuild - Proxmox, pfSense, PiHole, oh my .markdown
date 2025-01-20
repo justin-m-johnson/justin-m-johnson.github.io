@@ -2,7 +2,7 @@
 layout: post
 title:  "Network Rebuild"
 summary: "Proxmox, pfsense, pihole, oh my"
-author: initcyber
+author: justinmjohnson
 date: '2023-04-30 14:35:23 +0530'
 category: proxmox
 img: /assets/img/posts/2023-04-30/feat-1.png
@@ -41,7 +41,7 @@ Temporary Hypervisor to drag VM's to: If needed in the future, if I needed to du
 
 ### How did I do this?
 
-Simple. I loaded up my [Ventoy USB](https://www.ventoy.net/en/index.html) with the latest [Proxmox ISO](https://www.proxmox.com/en/downloads) and booted up my Optiplex. Went through the installation of Proxmox (see [Installing Proxmox (bye bye ESXi)](https://www.initcyber.com/posts/2022-07-16-Installing%20Proxmox%20(bye%20bye%20ESXi)) for a walkthrough). However we get into the Chicken-Egg scenario when it comes to networking. As this is the first node on the network, I needed to be creative with the IP Addressing. I also had to consider my backup for pfSense and current VLANs in place.
+Simple. I loaded up my [Ventoy USB](https://www.ventoy.net/en/index.html) with the latest [Proxmox ISO](https://www.proxmox.com/en/downloads) and booted up my Optiplex. Went through the installation of Proxmox (see [Installing Proxmox (bye bye ESXi)](https://www.justinmjohnson.com/posts/2022-07-16-Installing%20Proxmox%20(bye%20bye%20ESXi)) for a walkthrough). However we get into the Chicken-Egg scenario when it comes to networking. As this is the first node on the network, I needed to be creative with the IP Addressing. I also had to consider my backup for pfSense and current VLANs in place.
 
 During the install I chose to use the IP Address of 10.10.0.4 for my Proxmox Node (the others were already taken up via Static IP Addressing, these were the network switch and wireless AP). I went through the install process as normal, rebooted and was greeted with the blank terminal screen with the login information (sans password of course).
 

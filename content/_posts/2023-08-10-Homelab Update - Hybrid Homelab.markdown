@@ -2,7 +2,7 @@
 layout: post
 title:  "Homelab Update - Hybrid Homelab"
 summary: "Unless you have been living under a rock, you know that the Cloud is one of the biggest things in IT, and if you aren't already learning, working, or developing yourself in a cloud-based environment, you are not only missing out, you are doing yourself a disservice."
-author: initcyber
+author: justinmjohnson
 date: '2023-08-10 14:35:23 +0530'
 category: homelab
 img: /assets/img/posts/2023-08-10/1.png

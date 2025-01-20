@@ -2,7 +2,7 @@
 layout: post
 title:  "Tailscale"
 summary: "To the rescue!"
-author: initcyber
+author: justinmjohnson
 date: '2023-05-01 14:35:23 +0530'
 category: Tailscale
 img: /assets/img/posts/2023-05-01/1.png
@@ -75,7 +75,7 @@ Now restart your container if it is running
 
 #### PiHole Container
 
-On the PiHole Container I created in this [blog post](https://www.initcyber.com/posts/2023-04-30-Network%20Rebuild%20-%20Proxmox,%20pfSense,%20PiHole,%20oh%20my), lets install Tailscale:
+On the PiHole Container I created in this [blog post](https://www.justinmjohson.com/posts/2023-04-30-Network%20Rebuild%20-%20Proxmox,%20pfSense,%20PiHole,%20oh%20my), lets install Tailscale:
 
 (For reference, install guide [here](https://tailscale.com/kb/1187/install-ubuntu-2204/))
 

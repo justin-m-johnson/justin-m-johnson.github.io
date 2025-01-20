@@ -2,7 +2,7 @@
 layout: post
 title:  "Splunk Enterprise Pt 3 - Ubuntu Forwarders and Dashboards"
 summary: "Finishing up the Splunk Series"
-author: initcyber
+author: justinmjohnson
 date: '2022-07-05 14:35:23 +0530'
 category: Splunk
 img: /assets/img/posts/2022-05-16/feat-1.png

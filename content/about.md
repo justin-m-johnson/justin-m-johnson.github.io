@@ -7,11 +7,11 @@ Click [Here](https://drive.google.com/file/d/170v8y3_r4q9w6pW2mYf5oOaV0eLhK-tI/v
 
 ## Vitals:
 - Phone: +1 850 691 9708
-- Email: [justin@initcyber.com](mailto:justin@initcyber.com)
+- Email: [mail@justinmjohnson.com](mailto:mail@justinmjohnson.com)
 - Location: Atlanta, GA
-- Website: [www.initcyber.com](https://www.initcyber.com/)
+- Website: [www.justinmjohnson.com](https://www.justinmjohnosn.com/)
 - LinkedIn: [imjustinjohnson](https://linkedin.com/in/imjustinjohnson)
-- GitHub: [initcyber](https://github.com/initcyber)
+- GitHub: [justinmjohnson](https://github.com/justinmjohnson)
 
 
 # Senior Information Assurance Analyst
@@ -109,7 +109,7 @@ Highly accomplished Senior Information Assurance Analyst with 10+ years of exper
 
 ## Hybrid Cloud Homelab
 
-- [github.com/initcyber/homelab](https://github.com/initcyber/homelab)
+- [github.com/justinmjohnson/homelab](https://github.com/justinmjohnson/homelab)
 - Currently designing and implementing a hybrid cloud homelab as a testing environment for Proof of Concept (PoC) ideas.
 - Utilizes several logging and monitoring solutions such as Splunk and Wazuh.
 - CI/CD Pipelines for automation with Github Actions.

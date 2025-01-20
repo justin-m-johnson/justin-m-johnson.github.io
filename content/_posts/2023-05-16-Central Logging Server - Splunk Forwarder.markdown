@@ -2,7 +2,7 @@
 layout: post
 title:  "Central Logging Server - Splunk Forwarder"
 summary: "Over-Engineering your Logging systems"
-author: initcyber
+author: justinmjohnson
 date: '2023-05-16 14:35:23 +0530'
 category: ['Splunk','SysLog', 'SIEM']
 img: /assets/img/posts/2023-05-16/1.png
@@ -15,7 +15,7 @@ imgdate: 2023-05-16
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 ### Preface:
-Continuing on with rebuilding the homelab, since I have two boxes set up (one main "server" and one "router/server/gateway/firewall" combo), I found that there was a real need to have separate logging on this box to be forwarded to my [Splunk](https://www.initcyber.com/posts/2022-07-03-Splunk%20Enterprise%20Pt.%201%20(Installation)) instance. Whenever I took my main server down which had my Splunk instance on it, anything that was sending syslogs to it via the udp port (and not using a universal forwarder, i.e. Routers, Switches, etc) would have that data lost. So any data that my firewall/router was sending my Splunk instance was essentially gone. While in a homelab environment this isn't critical (to most), in production this would not be best practice. Plus, why wouldn't I want to over-engineer something?
+Continuing on with rebuilding the homelab, since I have two boxes set up (one main "server" and one "router/server/gateway/firewall" combo), I found that there was a real need to have separate logging on this box to be forwarded to my [Splunk](https://www.justinmjohnson.com/posts/2022-07-03-Splunk%20Enterprise%20Pt.%201%20(Installation)) instance. Whenever I took my main server down which had my Splunk instance on it, anything that was sending syslogs to it via the udp port (and not using a universal forwarder, i.e. Routers, Switches, etc) would have that data lost. So any data that my firewall/router was sending my Splunk instance was essentially gone. While in a homelab environment this isn't critical (to most), in production this would not be best practice. Plus, why wouldn't I want to over-engineer something?
 
 ![Syslog VM](/assets/img/posts/{{page.imgdate}}/1.png){:data-align="center"}
 
@@ -127,4 +127,4 @@ notifempty - Do not rotate log file if its empty
 
 ### Splunk Forwarder setup
 
-This is the easiest part - We can refer back to the post I made [here](https://www.initcyber.com/posts/2022-07-05-Splunk%20Enterprise%20Pt.%203%20(Forwarders%20on%20Ubuntu%20and%20Dashboards-Applications)%20). Once we set this up, our deployment server (otherwise known here in the homelab as the main server as I don't have a separate Deployment Server) will instruct the Splunk Forwarder on this instance where to collect log files. This provides the TCP protocol of forwarding our log data, and essentially creating a "Centralized Syslog" server for our Splunk instance.
+This is the easiest part - We can refer back to the post I made [here](https://www.justinmjohnson.com/posts/2022-07-05-Splunk%20Enterprise%20Pt.%203%20(Forwarders%20on%20Ubuntu%20and%20Dashboards-Applications)%20). Once we set this up, our deployment server (otherwise known here in the homelab as the main server as I don't have a separate Deployment Server) will instruct the Splunk Forwarder on this instance where to collect log files. This provides the TCP protocol of forwarding our log data, and essentially creating a "Centralized Syslog" server for our Splunk instance.

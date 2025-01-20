@@ -2,7 +2,7 @@
 layout: post
 title: "Enhancing Cybersecurity with AI: Introducing my AI-Powered Security Tools"
 summary: "There are multiple ways to use cybersecurity tools and AI, choose your path."
-author: initcyber
+author: justinmjohnson
 date: '2024-08-03 06:30:23 +0530'
 category: ['AI','OpenAI', 'OpenWebUI']
 tags: ai, llm, career
@@ -15,7 +15,7 @@ imgdate: 2024-08-03
 
 # Enhancing Cybersecurity with AI: Introducing my AI-Powered Security Tools
 
-In today’s digital landscape, cybersecurity is more critical than ever. With the increasing complexity of cyber threats, leveraging advanced technologies like artificial intelligence (AI) can significantly enhance our ability to detect and mitigate vulnerabilities. In this blog post, I am excited to introduce my new repository, [AI Tools for Cybersecurity](https://github.com/initcyber/ai_tools), which contains a collection of Python-based security tools that utilize OpenAI’s ChatGPT to provide detailed security recommendations. In the future I will incorporate it with local AI (ollama) so that it can be used "in house" and won't (potentially) expose potentially unwanted information to the public.
+In today’s digital landscape, cybersecurity is more critical than ever. With the increasing complexity of cyber threats, leveraging advanced technologies like artificial intelligence (AI) can significantly enhance our ability to detect and mitigate vulnerabilities. In this blog post, I am excited to introduce my new repository, [AI Tools for Cybersecurity](https://github.com/justinmjohnson/ai_tools), which contains a collection of Python-based security tools that utilize OpenAI’s ChatGPT to provide detailed security recommendations. In the future I will incorporate it with local AI (ollama) so that it can be used "in house" and won't (potentially) expose potentially unwanted information to the public.
 
 The primary goal of this repository is to continously update and create a suite of tools that can automate various cybersecurity tasks and provide insightful recommendations using AI. By integrating OpenAI’s ChatGPT, I aim to offer a more intelligent and comprehensive approach to security analysis, making it easier for security professionals to identify and address potential threats.
 

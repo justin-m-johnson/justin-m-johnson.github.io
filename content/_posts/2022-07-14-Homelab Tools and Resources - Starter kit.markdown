@@ -2,7 +2,7 @@
 layout: post
 title:  "Homelab Tools and Resources - Starter Kit"
 summary: "Different things you can use in your homelab"
-author: initcyber
+author: justinmjohnson
 date: '2022-07-14 14:35:23 +0530'
 category: Homelab
 img: /assets/img/posts/2022-07-14/feat-1.png

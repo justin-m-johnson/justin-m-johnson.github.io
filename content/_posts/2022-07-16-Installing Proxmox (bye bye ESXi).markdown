@@ -2,7 +2,7 @@
 layout: post
 title:  "Installing Proxmox"
 summary: "Bye bye esxi"
-author: initcyber
+author: justinmjohnson
 date: '2022-07-16 14:35:23 +0530'
 category: proxmox
 img: /assets/img/posts/2022-07-16/feat-1.png

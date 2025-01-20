@@ -2,7 +2,7 @@
 layout: post
 title:  "Ansible Part 2 - Setup and Playbooks"
 summary: "Deeper dive into Ansible"
-author: initcyber
+author: justinmjohnson
 date: '2022-07-13 14:35:23 +0530'
 category: Ansible
 img: /assets/img/posts/2022-07-13/feat-1.png

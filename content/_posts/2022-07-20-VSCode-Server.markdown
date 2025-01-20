@@ -2,7 +2,7 @@
 layout: post
 title:  "VSCode Servers"
 summary: "How to remotely edit code files"
-author: initcyber
+author: justinmjohnson
 date: '2022-07-20 14:35:23 +0530'
 category: VSCode
 img: /assets/img/posts/2022-07-20/feat-1.png

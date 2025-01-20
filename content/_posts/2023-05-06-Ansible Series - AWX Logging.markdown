@@ -2,7 +2,7 @@
 layout: post
 title:  "Ansible Series - AWX Logging"
 summary: "Logging your Ansible Playbooks"
-author: initcyber
+author: justinmjohnson
 date: '2023-05-06 14:35:23 +0530'
 category: ['Logging', 'ansible', 'awx']
 img: /assets/img/posts/2023-05-06/1.png

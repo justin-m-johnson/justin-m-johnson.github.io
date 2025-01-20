@@ -2,7 +2,7 @@
 layout: post
 title:  "Starting a Homelab"
 summary: "Why a homelab is critical to your success"
-author: initcyber
+author: justinmjohnson
 date: '2023-11-09 22:35:23 +0530'
 category: homelab
 img: /assets/img/posts/2023-11-09/1.jpg

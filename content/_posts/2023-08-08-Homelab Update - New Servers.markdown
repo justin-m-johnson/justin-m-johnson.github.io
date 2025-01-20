@@ -2,7 +2,7 @@
 layout: post
 title:  "Homelab Update - New Servers"
 summary: "Over the past few months I've had a lot of different things happen, more namely moving different houses. Now I have a dedicated basement for the homelab (and coincidentally.... my office) and I also expanded a bit."
-author: initcyber
+author: justinmjohnson
 date: '2023-08-08 14:35:23 +0530'
 category: Homelab
 img: /assets/img/posts/2023-08-08/1.jpg

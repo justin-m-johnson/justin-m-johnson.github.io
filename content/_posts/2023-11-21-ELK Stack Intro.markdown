@@ -2,7 +2,7 @@
 layout: post
 title: "ELK Stack Introduction"
 summary: "Learn what the ELK stack is about"
-author: initcyber
+author: justinmjohnson
 date: '2023-11-21 18:30:23 +0530'
 category: ['Intro','ELK', 'SIEM']
 tags: jekyll

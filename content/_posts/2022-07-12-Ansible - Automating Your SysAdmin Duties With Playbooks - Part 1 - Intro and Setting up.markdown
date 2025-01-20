@@ -2,7 +2,7 @@
 layout: post
 title:  "Ansible: Automating your SysAdmin Duties"
 summary: "Part 1 - Playbooks"
-author: initcyber
+author: justinmjohnson
 date: '2022-07-12 14:35:23 +0530'
 category: Ansible
 img: /assets/img/posts/2022-07-12/feat-1.png

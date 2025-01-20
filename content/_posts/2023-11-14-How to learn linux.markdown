@@ -2,7 +2,7 @@
 layout: post
 title:  "How to learn linux"
 summary: "The rising popularity of this Operating System"
-author: initcyber
+author: justinmjohnson
 date: '2023-11-14 21:35:23 +0530'
 category: Linux
 img: /assets/img/authors/profile.png

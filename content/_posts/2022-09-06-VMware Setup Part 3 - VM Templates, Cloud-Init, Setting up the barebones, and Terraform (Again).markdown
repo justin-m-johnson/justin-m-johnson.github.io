@@ -2,7 +2,7 @@
 layout: post
 title:  "VMWare Setup Pt 3"
 summary: "VM Templates, Cloud-init, Barebones, terraform, ... (oh my?)"
-author: initcyber
+author: justinmjohnson
 date: '2022-09-06 14:35:23 +0530'
 category: vmware
 img: /assets/img/posts/2022-09-06/1.png

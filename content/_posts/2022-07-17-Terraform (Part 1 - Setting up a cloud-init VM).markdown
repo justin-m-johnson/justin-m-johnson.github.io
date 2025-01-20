@@ -2,7 +2,7 @@
 layout: post
 title:  "Terraform Pt 1"
 summary: "Setting up a cloud init VM"
-author: initcyber
+author: justinmjohnson
 date: '2022-07-17 14:35:23 +0530'
 category: Terraform
 img: /assets/img/posts/2022-07-17/feat-1.png
@@ -14,7 +14,7 @@ imgdate: 2022-07-17
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-Terraform (which will be discussed in greater detail in Part 2 of this mini-blog series – tomorrow) is a CI/CD tool that is pretty much the de-facto standard for Infrastructure as Code (IAC), and is something I decided to start learning as part of my homelab, however some pre-requisites are needed in order to start using Terraform, one of which was setting up Proxmox (at least in my use-case – see yesterday’s [blog post](https://www.initcyber.com/posts/2022-07-16-Installing%20Proxmox%20(bye%20bye%20ESXi))), the other being setting up a cloud-init VM. What is Cloud-Init and why do we need it?
+Terraform (which will be discussed in greater detail in Part 2 of this mini-blog series – tomorrow) is a CI/CD tool that is pretty much the de-facto standard for Infrastructure as Code (IAC), and is something I decided to start learning as part of my homelab, however some pre-requisites are needed in order to start using Terraform, one of which was setting up Proxmox (at least in my use-case – see yesterday’s [blog post](https://www.justinmjohnson.com/posts/2022-07-16-Installing%20Proxmox%20(bye%20bye%20ESXi))), the other being setting up a cloud-init VM. What is Cloud-Init and why do we need it?
 
 According to [Cloud Init](https://cloudinit.readthedocs.io/en/latest/)
 
