@@ -55,7 +55,7 @@ Highly accomplished Senior Information Assurance Analyst with 10+ years of exper
 
 ## SeKON, Lead ISSE / Compliance Management
 
-- Aug 2020 – Oct 2024
+- Oct 2022 – Oct 2024
 - Atlanta, GA (Remote)
 - Led a team of three (3) Information Systems Security Engineers, improving processes and reporting daily to Government Leadership.
 - Reviewed CISA and DISA guidance, providing recommendations for implementing best practices within the Cyber team.
@@ -69,6 +69,19 @@ Highly accomplished Senior Information Assurance Analyst with 10+ years of exper
 - Managed configuration, change requests, and POA&M activities.
 - Assisted in crafting policy-driven responses to technical RFPs (Requests for Proposal) and RFQs (Requests for Quotation), ensuring compliance with government regulations.
 - Contributed to the development of winning proposals, successfully bidding on numerous government contracts.
+
+## SeKON, Information Systems Engineer
+- Aug 2020 – Oct 2022
+- Atlanta, GA (Remote)
+- Cybersecurity leader with a proven track record in elevating government systems to full ATO certification. Successfully spearheaded the transition of multiple Systems of Record from ATO-C to ATO status, showcasing expertise in security compliance and stakeholder management. Adept at devising efficient strategies to meet stringent government regulations while fostering seamless collaboration between technical teams and government stakeholders.
+- Implemented DISA's Continuous Monitoring and Risk Scoring (CMRS) system's API to eMASS for various Information Systems, utilizing ACAS Security Center for integration with eMASS.
+- Conducted weekly ACAS scans, providing ASR/ARF pair files to ISSOs and verifying CMRS results for accuracy. Offered feedback on false positives, vulnerabilities, and IAVMs.
+- Audited Information System Security Packages to ensure sponsor/customer compliance.
+- Supported ISSOs during Quarterly and Annual Security Reviews, selecting appropriate STIGs/SRGs and reviewing STIG checklists.
+- Actively participated in Configuration Management, Change Requests, and POA&Ms throughout the RMF Lifecycle, focusing on steps 2-4 and 7.
+- Authored Standard Operating Procedures (SOPs) for Cyber Security and Information Systems Security Engineering teams.
+- Validated POAM and TSAR documentation from joint entities for completeness and accuracy.
+- Ensured system security requirements, tools, and architecture compliance for various systems.
 
 ## Georgia Tech Research Institute, Information Systems Security Officer
 
