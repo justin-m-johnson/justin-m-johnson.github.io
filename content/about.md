@@ -14,16 +14,16 @@ Click [Here](https://justinmjohnson.com/assets/resume.pdf) for the PDF Version.
 - GitHub: [justin-m-johnson](https://github.com/justin-m-johnson)
 
 
-# Senior Information Assurance Analyst
+# Cybersecurity Analyst Lead
 
-Highly accomplished Senior Information Assurance Analyst with 10+ years of experience in cybersecurity and IT management. Proven track record of delivering exceptional results, leading teams, and implementing best practices in compliance and risk management. Skilled in Zero Trust architecture, NIST RMF, and regulatory compliance. Proficient in cloud security, vulnerability scanning, and governance frameworks.
+Cybersecurity Analyst Lead with over 10 years of comprehensive experience driving cybersecurity initiatives and IT governance projects. Demonstrated expertise in leading cross-functional teams and managing complex projects to enhance compliance, risk management, and security posture. Proven ability to implement industry best practices, including Zero Trust architecture and NIST Risk Management Framework (RMF), while optimizing cloud security, ulnerability management, and governance frameworks. Adept at balancing technical proficiency with project leadership to deliver timely, high-impact results aligned with organizational goals.
 
 # Education
 
-## Western Governors University, MBA in MBA - IT Management
+## Western Governors University, MBA -  IT Management
 
-- Aug 2024 – May 2025
-- Masters of Business Administration - In Progress
+- Oct 2024 – May 2025
+- Masters of Business Administration
 
 ## Colorado State University-Global Campus, B.Sc in Cyber Security
 
@@ -38,9 +38,20 @@ Highly accomplished Senior Information Assurance Analyst with 10+ years of exper
 
 # Experience
 
+## Alpha Omega, Cybersecurity Analyst Lead
+- July 2025 - Present
+- Atlanta, GA (Remote)
+- As a Project Manager and Cybersecurity Analyst Lead/Systems Security Steward Lead at Alpha Omega, following its acquisition of SeKON Enterprise, I have successfully navigated organizational change while expanding my leadership capacity and driving vital cybersecurity projects supporting the CDC’s public health mission.
+- Spearhead comprehensive project management efforts within cybersecurity initiatives, overseeing project planning, resource coordination, timeline management, and performance tracking to ensure timely, quality delivery aligned with strategic objectives.
+- Lead and mentor a team of Cybersecurity Analysts and Systems Security Stewards, fostering collaboration and professional growth to maintain focus on enhancing CDC’s information systems security posture amid digital transformation.
+- Direct and coordinate Authorization & Accreditation (A&A) workflows based on the NIST SP 800-37 Risk Management Framework (RMF), meticulously managing project documentation, schedules, and stakeholder communications.
+- Champion vulnerability management and compliance assessment programs, orchestrating workflows to meet federal standards and CDC security mandates.- Establish and disseminate best practices in cybersecurity monitoring and risk mitigation, driving process improvements that support CDC’s evolving security strategy.
+- Serve as the primary liaison with internal stakeholders, providing clear updates on project progression, risk identification, and mitigation strategies to ensure informed decision-making and accountability.
+- Chair Configuration Control Board (CCB) activities, facilitating key project meetings to manage cybersecurity-related changes and ensure configuration items are tracked and implemented.
+- 
 ## SeKON, Information Systems Auditor SME
 
-- Oct 2024 - Present
+- Oct 2024 - July 2025
 - Atlanta, GA (Remote)
 - As an Information Systems Analyst SME/Systems Security Steward Lead, I support the CDC's mission to protect public health through innovative IT solutions and robust cybersecurity measures. Working with SeKON Enterprise, Inc., I contribute to the security, integrity, and compliance of the CDC's information systems while supporting the agency's digital transformation efforts.
 - Leading a team of Information Systems Analysts/Systems Security Stewards in supporting the CDC's mission to protect public health through innovative IT solutions and robust cybersecurity measures
@@ -109,27 +120,13 @@ Highly accomplished Senior Information Assurance Analyst with 10+ years of exper
 
 # Current Certifications
 
+## PMP, PMI
 ## CISSP, ISC(2)
-
-
-## AWS Solutions Architect Associate, Amazon Web Services
-
-
 ## Azure Fundamentals, Microsoft
-
-
 ## Office 365 Fundamentals, Microsoft
-
-
 ## Security Compliance and Identity Fundamentals, Microsoft
-
-
 ## Security+, CompTIA
-
-
 ## Network+, CompTIA
-
-
 ## A+, CompTIA
 
 
