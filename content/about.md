@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Resume/About Me
+title: Justin Johnson, PMP, CISSP, MBA-IT Management
 permalink: /about
 ---
 Click [Here](https://justinmjohnson.com/assets/resume.pdf) for the PDF Version.
-
-# Justin Johnson, PMP, CISSP, MBA-IT Management
 
 ## Vitals:
 - Phone: +1 850 691 9708
