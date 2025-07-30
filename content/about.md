@@ -98,7 +98,3 @@ Cybersecurity Program Manager with 10+ years’ experience leading large-scale c
 - Security Operations & Tools: Vulnerability Management (Nessus), SIEM (Splunk, ELK), Endpoint & Log Monitoring (Wazuh), Automation & Orchestration (Ansible, Terraform, GitHub Actions)
 - Programming & Scripting: Python, PowerShell, Bash, Git
 - Other Technical Skills: Network & Systems Administration, Continuous Monitoring, Incident Response, Security Documentation, Policy Development, Regulatory Compliance Assessment
-
-<div style=display: flex;>
-    {%- include wakatime.html -%}
-</div>
