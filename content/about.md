@@ -9,7 +9,7 @@ Click [Here](https://justinmjohnson.com/assets/resume.pdf) for the PDF Version.
 - Phone: +1 850 691 9708
 - Email: [mail@justinmjohnson.com](mailto:mail@justinmjohnson.com)
 - Location: Atlanta, GA
-- Website: [www.justinmjohnson.com](https://www.justinmjohnosn.com/)
+- Website: [www.justinmjohnson.com](https://www.justinmjohnson.com/)
 - LinkedIn: [imjustinjohnson](https://linkedin.com/in/imjustinjohnson)
 - GitHub: [justin-m-johnson](https://github.com/justin-m-johnson)
 
@@ -39,7 +39,7 @@ Cybersecurity Program Manager with 10+ years’ experience leading large-scale c
 # Experience
 
 ## SeKON / Alpha Omega – CDC Contract
-- Ict 2024 - Present
+- Oct 2024 - Present
 - Atlanta, GA (Remote)
 - Directed security program planning, managed a team of Security Stewards and Analysts, and drove project delivery to meet aggressive CDC and federal infosec deadlines.
 - Led and mentored teams of Cybersecurity Analysts and Security Stewards, managing cross-functional initiatives advancing the CDC’s public health technology mission.
@@ -82,6 +82,7 @@ Cybersecurity Program Manager with 10+ years’ experience leading large-scale c
 
 # Current Certifications
 
+- CMMC-CCP, Cyber-AB
 - PMP, PMI
 - CISSP, ISC(2)
 - Azure Fundamentals, Microsoft
@@ -98,3 +99,6 @@ Cybersecurity Program Manager with 10+ years’ experience leading large-scale c
 - Security Operations & Tools: Vulnerability Management (Nessus), SIEM (Splunk, ELK), Endpoint & Log Monitoring (Wazuh), Automation & Orchestration (Ansible, Terraform, GitHub Actions)
 - Programming & Scripting: Python, PowerShell, Bash, Git
 - Other Technical Skills: Network & Systems Administration, Continuous Monitoring, Incident Response, Security Documentation, Policy Development, Regulatory Compliance Assessment
+
+# Achievements
+- Cyber50 Award - [Northern Virginia Technology Council (NVTC)](https://www.nvtc.org/press-releases/northern-virginia-technology-council-announces-2025-nvtc-cyber50-honorees/)
