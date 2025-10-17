@@ -3,11 +3,11 @@ layout: post
 title: "CMMC as a Continuous Process, Not a Project"
 summary: "CMMC is not a one and done"
 author: justinmjohnson
-date: '2024-10-15 18:30:23 +1530'
+date: '2025-10-15 18:30:23 +1530'
 img: /assets/img/posts/2025-10-15/image.png
 keywords: CMMC, GovCon, Audits
 usemathjax: false
-imgdate: 2024-10-15
+imgdate: 2025-10-15
 ---
 ## CMMC as a Continuous Process, Not a Project
 
