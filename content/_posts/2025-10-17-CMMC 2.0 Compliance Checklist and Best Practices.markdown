@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "CMMC 2.0 Compliance Checklist and Best Practices"
-summary: "CMMC is not a one and done"
+summary: "Getting ready for your assessment"
 author: justinmjohnson
 date: '2024-10-17 18:30:23 +1530'
-img: /assets/img/posts/2025-10-15/image.png
+img: /assets/img/posts/2025-10-17/image.png
 keywords: CMMC, GovCon, Audits
 usemathjax: false
 imgdate: 2024-10-17
