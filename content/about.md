@@ -41,14 +41,14 @@ Cybersecurity Program Manager with 10+ years’ experience leading large-scale c
 ## SeKON / Alpha Omega – CDC Contract
 - Oct 2024 - Present
 - Atlanta, GA (Remote)
-- Directed security program planning, managed a team of Security Stewards and Analysts, and drove project delivery to meet aggressive CDC and federal infosec deadlines.
+- Directed security project planning, managed a team of three (3) Security Stewards and Analysts, and drove project delivery to meet aggressive CDC and federal infosec deadlines.
 - Led and mentored teams of Cybersecurity Analysts and Security Stewards, managing cross-functional initiatives advancing the CDC’s public health technology mission.
 - Spearheaded strategic project management within the cybersecurity security stewards program, overseeing planning, resource coordination, and risk mitigation for compliance and security enhancement.
-- Directed Authorization & Accreditation (A&A) workflows, drove NIST SP 800-37 Risk Management Framework (RMF) processes, and ensured timely, accurate compliance documentation and reporting.
+- Directed Authorization & Accreditation (A&A) workflows, including in-depth audits and control assessments, driving NIST SP 800-37 RMF processes and ensuring timely, accurate compliance documentation and reporting.
 - Chaired Configuration Control Board meetings governing critical configuration changes and risk management.
 - Established and disseminated cybersecurity monitoring and risk mitigation best practices during organizational transitions, improving process efficiency post-acquisition.
 - Served as primary interface for CDC and internal stakeholders, regularly communicating risk status, project updates, and strategic security recommendations.
-- Orchestrated robust vulnerability management and compliance assessment programs to meet federal standards and CDC mandates.
+- Achievements - two (2) ATO's obtained in first year - 25+ annual assessments completed - Onboarded five (5) new information systems - Over 100 POA&M's remediated 
   
 
 ## SeKON – DHA Contract, Information Systems Engineer
@@ -56,10 +56,11 @@ Cybersecurity Program Manager with 10+ years’ experience leading large-scale c
 - Atlanta, GA (Remote)
 - Promoted from Information Systems Security Engineer to Information Systems Security Engineer Lead, overseeing implementation of RMF, NIST controls, and vulnerability management solutions across DHA information systems.
 - Integrated CISA/DISA guidance into actionable team projects and technical processes, influencing successful ATO certifications and transition from ATO-C to ATO for multiple government systems.
-- Delivered automated vulnerability scanning with integration to eMASS and Cybersecurity Dashboarding using Splunk, improving real-time monitoring and metrics for NIST 800-53 control families.
+- Delivered automated vulnerability scanning with integration to eMASS and Cybersecurity Dashboarding using Splunk, improving real-time monitoring and metrics, reducing manual work by 75%.
 - Coordinated Quarterly STIGs/SCAPs review and continuous monitoring, ensuring systems exceeded evolving federal compliance requirements.
 - Provided technical recommendations based on latest executive orders (EOs) and OMB policies, specializing in Zero Trust and NIST RMF Rev. 5 implementations.
-- Authored Standard Operating Procedures and mentored other engineers/analysts, driving team upskilling and streamlined compliance documentation.
+- Conducted comprehensive audits and assessments of cybersecurity practices and control implementations, verifying evidence and evaluating readiness for advanced compliance standards.
+- Achievements - Authored two (2) Standard Operating Procedures - Mentored five (5) engineers/analysts, driving team upskilling and streamlined compliance documentation. - Multiple recognitions from government leadership
 
 ## Georgia Tech Research Institute, Information Systems Security Officer
 
@@ -82,6 +83,7 @@ Cybersecurity Program Manager with 10+ years’ experience leading large-scale c
 
 # Current Certifications
 
+- CMMC-CCA, Cyber-AB
 - CMMC-CCP, Cyber-AB
 - PMP, PMI
 - CISSP, ISC(2)
