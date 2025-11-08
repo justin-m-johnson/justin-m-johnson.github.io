@@ -4,7 +4,7 @@ title: "Navigating the Final CMMC Rule and Compliance Deadlines"
 summary: "What you need to know"
 author: justinmjohnson
 date: '2025-11-08 18:30:23 +1530'
-img: /assets/img/posts/2025-11-04/image.png
+img: /assets/img/posts/2025-11-08/image.png
 keywords: CMMC, GovCon, Audits
 usemathjax: false
 imgdate: 2025-11-08
