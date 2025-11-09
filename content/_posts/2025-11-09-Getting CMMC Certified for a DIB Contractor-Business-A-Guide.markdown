@@ -21,7 +21,7 @@ Certified professionals play a vital role in helping businesses prepare for and 
 
 **Certified CMMC Assessor (CCA):** These professionals conduct the official assessments required for certification.
 
-To find certified CCPs and CCAs, DIB contractors can use the Cyber AB Marketplace—the official directory of certified CMMC professionals and organizations. Here’s how:
+To find certified CCPs and CCAs, DIB contractors can use the (Cyber AB Marketplace)[https://cyberab.org/Catalog] , the official directory of certified CMMC professionals and organizations. Here’s how:
 
 - Visit the Cyber AB Marketplace website.
 
