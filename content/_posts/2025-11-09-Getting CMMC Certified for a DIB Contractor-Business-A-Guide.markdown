@@ -3,7 +3,7 @@ layout: post
 title: "Getting CMMC Certified for a Business: A Guide"
 summary: "What you need to know"
 author: justinmjohnson
-date: '2025-11-09 18:30:23 +1530'
+date: '2025-11-09 04:30:23 +1530'
 img: /assets/img/posts/2025-11-09/image.png
 keywords: CMMC, GovCon, Audits
 usemathjax: false
