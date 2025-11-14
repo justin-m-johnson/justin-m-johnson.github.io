@@ -4,7 +4,7 @@ title: "DFARS 7012 and CMMC"
 summary: "How do these things relate?"
 author: justinmjohnson
 date: '2025-11-14 04:30:23 +1530'
-img: /assets/img/posts/2025-11-14/image.png
+img: /assets/img/posts/2025-11-14/image.jpg
 keywords: CMMC, GovCon, Audits
 usemathjax: false
 imgdate: 2025-11-14
