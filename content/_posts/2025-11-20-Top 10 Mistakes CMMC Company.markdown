@@ -21,16 +21,16 @@ One of the most widespread errors is confusing Federal Contract Information (FCI
 Many companies delay preparation until CMMC clauses show up in their current contracts. This reactive approach leaves little time to build out the necessary controls, document processes, or train staff. Proactive preparation is key, start building your cybersecurity foundation now so you aren’t rushed later.
 
 ## 3. Treating CMMC as a One-Time Project
-Completing your System Security Plan (SSP) and controls checklist once and then setting it aside is a costly mistake. Systems, personnel, and processes evolve, which means your cybersecurity program needs constant maintenance and revision. Treat CMMC compliance as an ongoing operational requirement, with regular updates and audits.
+Completing your System Security Plan (SSP) and controls checklist once and then setting it aside is a costly mistake. Systems, personnel, and processes evolve, which means your cybersecurity program needs constant maintenance and revision. Treat CMMC compliance as an ongoing operational requirement, with regular updates and assessments.
 
 ## 4. Inadequate Scoping and Asset Management
 Failing to properly scope your CUI environment and asset boundaries can lead to overlooking critical systems or overextending security efforts. Conduct thorough data flow mapping and maintain an accurate, current inventory of all assets that handle sensitive information.
 
 ## 5. Poor Documentation and Evidence Collection
-Strong technical controls aren’t enough. Auditors expect to see well-maintained policies, procedures, and evidence that controls are implemented and effective. Don’t wait until right before your assessment to gather documentation… make continuous record-keeping part of your process.
+Strong technical controls aren’t enough. Assessors expect to see well-maintained policies, procedures, and evidence that controls are implemented and effective. Don’t wait until right before your assessment to gather documentation… make continuous record-keeping part of your process.
 
 ## 6. Neglecting Physical Security
-CMMC includes physical security requirements, but contractors often focus only on digital protections. Facilities, server rooms, visitor logs, and secure hardware disposal processes must be addressed to avoid audit findings.
+CMMC includes physical security requirements, but contractors often focus only on digital protections. Facilities, server rooms, visitor logs, and secure hardware disposal processes must be addressed to avoid findings.
 
 ## 7. Weak Access Control Implementation
 This will haunt you. Nothing worse than going through your assessment just to be stopped because you fail these controls. Improper access management, like overly permissive user rights or failing to implement least privilege principles, leaves your environment exposed. Develop clear access policies, review access regularly, and promptly remove rights when employees change roles or leave.
