@@ -34,12 +34,12 @@ collections:
 
 
 # Index
-index_header: "Cybersecurity, IT Audit, GRC, and More"
-index_description: "Hi, my name is Justin Johnson. I'm a Information Systems Auditor/Subject Matter Expert and a lifelong learner."
+index_header: "Justin Johnson"
+index_description: "Hi, my name is Justin Johnson. I'm a Cybersecurity Project Manager, CMMC Certified Assessor, and a lifelong learner."
 
 # Footer
 # Available icons: link, youtube, twitter, facebook, linkedin, instagram
-footer_description: Hi, my name is Justin Johnson. I'm a Information Systems Auditor/Subject Matter Expert and a lifelong learner.
+footer_description: Hi, my name is Justin Johnson. I'm a Cybersecurity Project Manager, CMMC Certified Assessor, and a lifelong learner.
 footer_socials:
   # -
   #   link: "https://www.youtube.com/@initcyber"
