@@ -3,10 +3,10 @@
 #----------------------------------------
 
 # Site title, appears in the browser tab
-title: "Justin Johnson"
+title: "Security. Compliance. Strategy. | Justin Johnson"
 
 # Site description in search engine
-description: "I am an enthusiastic Information Systems Auditor - Subject Matter Expert."
+description: "Navigating the complexities of IT Audit and Compliance. Join me as I share insights, strategies, and resources to help you stay ahead in the ever-evolving world of cybersecurity and compliance."
 
 # Language settings for html and seo
 lang: "en_US"
@@ -34,22 +34,22 @@ collections:
 
 
 # Index
-index_header: "Justin Johnson"
-index_description: "Hi, my name is Justin Johnson. I'm a Cybersecurity Project Manager, CMMC Certified Assessor, and a lifelong learner."
+index_header: "Security. Compliance. Strategy."
+index_description: "Hi, my name is Justin Johnson. I'm a Cybersecurity Project Manager, CMMC Certified Assessor, and a lifelong learner. Navigating the complexities of IT Audit and Compliance. Join me as I share insights, strategies, and resources to help you stay ahead in the ever-evolving world of cybersecurity and compliance."
 
 # Footer
 # Available icons: link, youtube, twitter, facebook, linkedin, instagram
-footer_description: Hi, my name is Justin Johnson. I'm a Cybersecurity Project Manager, CMMC Certified Assessor, and a lifelong learner.
+footer_description: Expert insights on Cybersecurity, GRC, and CMMC compliance from Justin Johnson. Resources and thoughts for IT Assessors and security professionals.
 footer_socials:
-  # -
-  #   link: "https://www.youtube.com/@initcyber"
-  #   icon: "youtube"
+  -
+    link: "https://www.youtube.com/@initcyber"
+    icon: "youtube"
   -
     link: "https://www.linkedin.com/in/imjustinjohnson/"
     icon: "linkedin"
-  # -
-  #   link: "/"
-  #   icon: "link"
+  -
+    link: "https://initcyber.com"
+    icon: "link"
   # -
   #   link: "/"
   #   icon: "linkedin"

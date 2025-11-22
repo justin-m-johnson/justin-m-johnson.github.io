@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Justin Johnson, PMP, CISSP, MBA-IT Management
+title: Justin Johnson, PMP, CISSP, MBA-IT Management, CCA, CCP
 permalink: /about
 ---
 Click [Here](https://justinmjohnson.com/assets/resume.pdf) for the PDF Version.
@@ -14,9 +14,9 @@ Click [Here](https://justinmjohnson.com/assets/resume.pdf) for the PDF Version.
 - GitHub: [justin-m-johnson](https://github.com/justin-m-johnson)
 
 
-# Cybersecurity Program Manager
+# Cybersecurity Project Manager
 
-Cybersecurity Program Manager with 10+ years’ experience leading large-scale cybersecurity strategies, risk management programs, and IT governance for mission-critical organizations. Expert at translating business objectives into cohesive security programs, aligning resources, and orchestrating diverse teams to achieve enterprise compliance and risk reduction goals. Skilled in designing and executing cross-functional initiatives covering Zero Trust, NIST RMF, and cloud security, with a proven record of delivering projects on time and within scope in regulated environments. Recognized for building collaborative partnerships with stakeholders, managing competing priorities, and driving measurable improvements to security posture, operational efficiency, and regulatory adherence.
+Cybersecurity Project Manager with 10+ years’ experience leading large-scale cybersecurity strategies, risk management Projects, and IT governance for mission-critical organizations. Expert at translating business objectives into cohesive security Projects, aligning resources, and orchestrating diverse teams to achieve enterprise compliance and risk reduction goals. Skilled in designing and executing cross-functional initiatives covering Zero Trust, NIST RMF, and cloud security, with a proven record of delivering projects on time and within scope in regulated environments. Recognized for building collaborative partnerships with stakeholders, managing competing priorities, and driving measurable improvements to security posture, operational efficiency, and regulatory adherence.
 
 # Education
 
@@ -43,7 +43,7 @@ Cybersecurity Program Manager with 10+ years’ experience leading large-scale c
 - Atlanta, GA (Remote)
 - Directed security project planning, managed a team of three (3) Security Stewards and Analysts, and drove project delivery to meet aggressive CDC and federal infosec deadlines.
 - Led and mentored teams of Cybersecurity Analysts and Security Stewards, managing cross-functional initiatives advancing the CDC’s public health technology mission.
-- Spearheaded strategic project management within the cybersecurity security stewards program, overseeing planning, resource coordination, and risk mitigation for compliance and security enhancement.
+- Spearheaded strategic project management within the cybersecurity security stewards Project, overseeing planning, resource coordination, and risk mitigation for compliance and security enhancement.
 - Directed Authorization & Accreditation (A&A) workflows, including in-depth audits and control assessments, driving NIST SP 800-37 RMF processes and ensuring timely, accurate compliance documentation and reporting.
 - Chaired Configuration Control Board meetings governing critical configuration changes and risk management.
 - Established and disseminated cybersecurity monitoring and risk mitigation best practices during organizational transitions, improving process efficiency post-acquisition.
