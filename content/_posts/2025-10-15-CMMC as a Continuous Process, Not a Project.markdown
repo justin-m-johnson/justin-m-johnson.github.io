@@ -2,7 +2,7 @@
 layout: post
 title: "CMMC as a Continuous Process, Not a Project"
 summary: "CMMC is not a one and done"
-author: justinmjohnson
+author: Justin Johnson
 date: '2025-10-15 18:30:23 +1530'
 img: /assets/img/posts/2025-10-15/image.png
 keywords: CMMC, GovCon, Audits

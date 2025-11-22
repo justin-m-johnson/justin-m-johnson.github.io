@@ -2,7 +2,7 @@
 layout: post
 title:  "PFSense and PiHole on ESXI"
 summary: "Getting all three of these to play nicely"
-author: justinmjohnson
+author: Justin Johnson
 date: '2023-05-02 14:35:23 +0530'
 category: PFSense
 img: /assets/img/posts/2023-05-02/1.png

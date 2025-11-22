@@ -2,7 +2,7 @@
 layout: post
 title:  "Splunk Enterprise Pt 2 - Licensing and Forwarders"
 summary: "Continuing on with Splunk Enterprise"
-author: justinmjohnson
+author: Justin Johnson
 date: '2022-07-04 14:35:23 +0530'
 category: Splunk
 img: /assets/img/posts/2022-07-04/feat-1.png

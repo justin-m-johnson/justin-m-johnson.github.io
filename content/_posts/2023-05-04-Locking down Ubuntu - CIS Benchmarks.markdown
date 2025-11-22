@@ -2,7 +2,7 @@
 layout: post
 title:  "Locking Down Ubuntu - CIS Benchmarks"
 summary: "You can do this too in your homelab"
-author: justinmjohnson
+author: Justin Johnson
 date: '2023-05-04 14:35:23 +0530'
 category: CIS
 img: /assets/img/posts/2023-05-04/1.png

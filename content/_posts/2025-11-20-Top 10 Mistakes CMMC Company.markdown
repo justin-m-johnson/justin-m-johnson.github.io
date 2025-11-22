@@ -2,7 +2,7 @@
 layout: post
 title: "The Top 10 Mistakes Companies Make with CMMC"
 summary: "Dont do these"
-author: justinmjohnson
+author: Justin Johnson
 date: '2025-11-20 04:30:23 +1530'
 img: /assets/img/posts/2025-11-20/image.png
 keywords: CMMC, GovCon, Audits

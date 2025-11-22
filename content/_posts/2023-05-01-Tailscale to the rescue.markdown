@@ -2,7 +2,7 @@
 layout: post
 title:  "Tailscale"
 summary: "To the rescue!"
-author: justinmjohnson
+author: Justin Johnson
 date: '2023-05-01 14:35:23 +0530'
 category: Tailscale
 img: /assets/img/posts/2023-05-01/1.png

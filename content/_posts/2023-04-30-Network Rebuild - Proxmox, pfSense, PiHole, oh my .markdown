@@ -2,7 +2,7 @@
 layout: post
 title:  "Network Rebuild"
 summary: "Proxmox, pfsense, pihole, oh my"
-author: justinmjohnson
+author: Justin Johnson
 date: '2023-04-30 14:35:23 +0530'
 category: proxmox
 img: /assets/img/posts/2023-04-30/feat-1.png

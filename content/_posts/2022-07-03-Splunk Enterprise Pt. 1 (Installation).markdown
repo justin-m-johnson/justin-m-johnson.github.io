@@ -2,7 +2,7 @@
 layout: post
 title:  "Splunk Enterprise Pt. 1"
 summary: "Splunk is best known for monitoring, searching through, analyzing, and providing visuals for real time data."
-author: justinmjohnson
+author: Justin Johnson
 date: '2022-07-03 14:35:23 +0530'
 category: Splunk
 img: /assets/img/posts/2022-07-03/feat-1.png

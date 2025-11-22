@@ -2,7 +2,7 @@
 layout: post
 title: "Your career and AI - It's not replacing your tech job"
 summary: "Your career isn't being taken over by AI - It's being enhanced by AI - Keep up."
-author: justinmjohnson
+author: Justin Johnson
 date: '2024-07-02 18:30:23 +0530'
 category: ['AI','OpenAI', 'OpenWebUI']
 tags: ai, llm, career

@@ -2,7 +2,7 @@
 layout: post
 title: "Incident Response in a Changing World: Navigating the Complexities of Data Privacy"
 summary: "Navigating the Complexities of Data Privacy"
-author: justinmjohnson
+author: Justin Johnson
 date: '2024-09-11 18:30:23 +1530'
 img: /assets/img/posts/2024-09-10/image.png
 keywords: privacy, compliance, GAPP

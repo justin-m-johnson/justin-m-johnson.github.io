@@ -2,7 +2,7 @@
 layout: post
 title:  "Terraform Pt 3"
 summary: "Adding more VM's and organizing your files"
-author: justinmjohnson
+author: Justin Johnson
 date: '2022-07-19 14:35:23 +0530'
 category: terraform
 img: /assets/img/posts/2022-07-19/feat-1.png

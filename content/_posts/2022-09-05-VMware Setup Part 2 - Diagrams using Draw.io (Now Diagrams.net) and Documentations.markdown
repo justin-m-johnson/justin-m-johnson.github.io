@@ -2,7 +2,7 @@
 layout: post
 title:  "VMWare Setup pt 2"
 summary: "Diagrams using Draw.io"
-author: justinmjohnson
+author: Justin Johnson
 date: '2022-09-05 14:35:23 +0530'
 category: vmware
 img: /assets/img/posts/2022-09-05/feat-1.png

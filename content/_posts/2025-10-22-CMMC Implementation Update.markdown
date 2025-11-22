@@ -2,7 +2,7 @@
 layout: post
 title: "CMMC Implementation Update – November 10, 2025"
 summary: "CMMC finally being enforced"
-author: justinmjohnson
+author: Justin Johnson
 date: '2025-10-22 18:30:23 +1530'
 img: /assets/img/posts/2025-10-22/image.png
 keywords: CMMC, GovCon, Audits

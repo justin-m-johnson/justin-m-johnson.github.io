@@ -2,7 +2,7 @@
 layout: post
 title:  "Windows Subsystem for Linux"
 summary: "I actually like this..."
-author: justinmjohnson
+author: Justin Johnson
 date: '2022-07-15 14:35:23 +0530'
 category: WSL
 img: /assets/img/posts/2022-07-15/feat-1.png

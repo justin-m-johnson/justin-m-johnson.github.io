@@ -2,7 +2,7 @@
 layout: post
 title:  "Changing My Homelab"
 summary: "Re-do part 3,098"
-author: justinmjohnson
+author: Justin Johnson
 date: '2022-08-14 14:35:23 +0530'
 category: Homelab
 img: /assets/img/posts/2022-08-14/feat-1.png

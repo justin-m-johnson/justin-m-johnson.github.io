@@ -2,7 +2,7 @@
 layout: post
 title:  "Terraform Pt 2"
 summary: "Crash Course Together!"
-author: justinmjohnson
+author: Justin Johnson
 date: '2022-07-18 14:35:23 +0530'
 category: Terraform
 img: /assets/img/posts/2022-07-18/feat-1.png

@@ -2,7 +2,7 @@
 layout: post
 title:  "Central Logging Server - Splunk Forwarder"
 summary: "Over-Engineering your Logging systems"
-author: justinmjohnson
+author: Justin Johnson
 date: '2023-05-16 14:35:23 +0530'
 category: ['Splunk','SysLog', 'SIEM']
 img: /assets/img/posts/2023-05-16/1.png

@@ -2,7 +2,7 @@
 layout: post
 title: "Building Trust: Implementing the Ten Key Principles of GAPP for Effective Data Protection"
 summary: "Implementing the Generally Accepted Privacy Principles (GAPP) guidelines ensures organizations prioritize transparency, choice, security, quality, and accountability in their data protection practices."
-author: justinmjohnson
+author: Justin Johnson
 date: '2024-09-08 06:30:23 +0530'
 img: /assets/img/posts/2024-09-08/image.png
 keywords: privacy, compliance, GAPP

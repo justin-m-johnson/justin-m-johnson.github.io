@@ -2,7 +2,7 @@
 layout: post
 title: "AI in the HomeLab"
 summary: "AI and Large Language Models isn't just for ChatGPT"
-author: justinmjohnson
+author: Justin Johnson
 date: '2024-06-27 18:30:23 +0530'
 category: ['AI','OpenAI', 'OpenWebUI']
 tags: ai, llm, 

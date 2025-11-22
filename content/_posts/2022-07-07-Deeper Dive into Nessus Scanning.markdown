@@ -2,7 +2,7 @@
 layout: post
 title:  "Deeper Dive into Nessus Scanning"
 summary: "Jumpstart your cybersecurity career by understanding Nessus deeper"
-author: justinmjohnson
+author: Justin Johnson
 date: '2022-07-07 14:35:23 +0530'
 category: Nessus
 img: /assets/img/posts/2022-07-07/feat-1.png

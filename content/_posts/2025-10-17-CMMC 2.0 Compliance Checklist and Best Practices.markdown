@@ -2,7 +2,7 @@
 layout: post
 title: "CMMC 2.0 Compliance Checklist and Best Practices"
 summary: "Getting ready for your assessment"
-author: justinmjohnson
+author: Justin Johnson
 date: '2025-10-17 18:30:23 +1530'
 img: /assets/img/posts/2025-10-17/image.png
 keywords: CMMC, GovCon, Audits

@@ -2,7 +2,7 @@
 layout: post
 title:  "Terraform Pt 1"
 summary: "Setting up a cloud init VM"
-author: justinmjohnson
+author: Justin Johnson
 date: '2022-07-17 14:35:23 +0530'
 category: Terraform
 img: /assets/img/posts/2022-07-17/feat-1.png

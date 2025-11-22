@@ -2,7 +2,7 @@
 layout: post
 title: "Microsoft 365 Business Premium Now Available for GCC High"
 summary: "A New Era of Secure Productivity for Government Contractors"
-author: justinmjohnson
+author: Justin Johnson
 date: '2025-11-04 18:30:23 +1530'
 img: /assets/img/posts/2025-11-04/image.png
 keywords: CMMC, GovCon, Audits

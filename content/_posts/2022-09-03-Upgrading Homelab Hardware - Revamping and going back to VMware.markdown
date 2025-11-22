@@ -2,7 +2,7 @@
 layout: post
 title:  "Upgrading Homelab Hardware"
 summary: "Ok, back to VMWare"
-author: justinmjohnson
+author: Justin Johnson
 date: '2022-09-03 14:35:23 +0530'
 category: Homelab
 img: /assets/img/posts/2022-09-03/1.png

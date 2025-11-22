@@ -2,7 +2,7 @@
 layout: post
 title:  "Hyper-V - Install"
 summary: "Full Windows Homelab"
-author: justinmjohnson
+author: Justin Johnson
 date: '2022-09-20 14:35:23 +0530'
 category: hyperv
 img: /assets/img/posts/2022-09-20/1.png

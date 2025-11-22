@@ -2,7 +2,7 @@
 layout: post
 title:  "Fail to Ban - You need it!"
 summary: "Easy to use, quick to deploy, another layer of safety"
-author: justinmjohnson
+author: Justin Johnson
 date: '2022-07-06 14:35:23 +0530'
 category: Fail2Ban
 img: /assets/img/posts/2022-07-06/feat-1.png
