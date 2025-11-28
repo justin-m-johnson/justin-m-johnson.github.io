@@ -11,7 +11,7 @@ imgdate: 2025-11-28
 ---
 # How Feasible is CMMC for a Very Small Business
 
-Many very small businesses in the Defense Industrial Base (DIB) worry that the Cybersecurity Maturity Model Certification (CMMC) is out of reach. The CMMC is a mandatory DoD program designed to enforce protection of sensitive information on contractor systems. While the rules can seem complex, the reality is that for many small firms, compliance is achievable with a clear plan. By focusing on a narrow scope and leveraging external resources, small businesses can often reach the required level without breaking the bank. This guide walks through the practical steps to get started.
+Many very small businesses (VSB) in the Defense Industrial Base (DIB) worry that the Cybersecurity Maturity Model Certification (CMMC) is out of reach. The CMMC is a mandatory DoD program designed to enforce protection of sensitive information on contractor systems. While the rules can seem complex, the reality is that for many small firms, compliance is achievable with a clear plan. By focusing on a narrow scope and leveraging external resources, small businesses can often reach the required level without breaking the bank. This guide walks through the practical steps to get started.
 
 ## Step-by-Step Guide
 
