@@ -4,7 +4,7 @@ title: "The Brutal Truth About Your CMMC Gap Analysis "
 summary: "(And Why -203 is a Real Score)"
 author: Justin Johnson
 date: '2025-12-3 04:30:23 +1530'
-img: /assets/img/posts/2025-12-3/image.jpg
+img: /assets/img/posts/2025-12-3/image.png
 keywords: CMMC, GovCon, Audits
 usemathjax: false
 imgdate: 2025-12-3
