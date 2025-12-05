@@ -39,11 +39,9 @@ Strategic Cybersecurity Compliance Leader with 10+ years of experience directing
 
 # Experience
 
-## Experience
-
 ### SeKON / Alpha Omega
 **Aug 2020 – Present**
-
+*Atlanta, GA (Remote)*
 #### CMMC Initiative (Sept 2025 – Present)
 **Position: Internal CMMC Consultant/Advisor**
 - Spearheaded the CMMC compliance initiative by providing Alpha Omega with several training sessions on the importance of CMMC and impact on the DIB.
@@ -60,7 +58,6 @@ Strategic Cybersecurity Compliance Leader with 10+ years of experience directing
 
 #### DHA Contract (Aug 2020 – Oct 2024)
 **Position: Lead Information Systems Security Engineer**
-*Atlanta, GA (Remote)*
 - Promoted from Information Systems Security Engineer to Information Systems Security Engineer Lead, overseeing implementation of RMF, NIST controls, and vulnerability management solutions across DHA information systems.
 - Integrated CISA/DISA guidance into actionable team projects and technical processes, influencing successful ATO certifications and transition from ATO-C to ATO for multiple government systems.
 - Delivered automated vulnerability scanning with integration to eMASS and Cybersecurity Dashboarding using Splunk, improving real-time monitoring and metrics, reducing manual work by 75%.
