@@ -15,7 +15,7 @@ Click [Here](https://justinmjohnson.com/assets/resume.pdf) for the PDF Version.
 
 
 # Senior GRC Strategist & CMMC Certified Assessor (CCA) 
-### (Soon-To-Be™ LCCA)
+#### (Soon-To-Be™ LCCA)
 
 Strategic Cybersecurity Compliance Leader with 10+ years of experience directing multi-million dollar federal contracts and enterprise risk management programs. As a Certified CMMC Assessor (CCA) and PMP, specializes in translating complex regulatory requirements (NIST SP 800-171/53, NIST 800-37, RMF Framework, DFARS) into cohesive business strategies that ensure audit readiness without disrupting operations. Expert in guiding organizations through the full compliance lifecycle—from initial scoping and gap analysis to policy architecture and final remediation. Proven record of securing ATOs for mission-critical systems and building collaborative partnerships that align security posture with executive business goals.
 
@@ -41,13 +41,13 @@ Strategic Cybersecurity Compliance Leader with 10+ years of experience directing
 
 ### SeKON / Alpha Omega
 *Aug 2020 – Present | Atlanta, GA (Remote)*
-#### CMMC Initiative (Sept 2025 – Present)
+##### CMMC Initiative (Sept 2025 – Present)
 **Position: Internal CMMC Consultant/Advisor**
 - Spearheaded the CMMC compliance initiative by providing Alpha Omega with several training sessions on the importance of CMMC and impact on the DIB.
 - Scoped the organizational enclave and identifying all contracts subject to DFARS 7012, 7019, and 7021 clauses, establishing the foundational requirements for the certification effort.
 - Authored and implemented over 10 new security policies and procedures, closing critical gaps identified during the initial assessment and aligning organizational practices with CMMC Level 2 controls.
 
-#### CDC Contract (Oct 2024 – Present)
+##### CDC Contract (Oct 2024 – Present)
 **Position: Cybersecurity Project Manager**
 - Led and mentored a cybersecurity team of three Security Stewards and Analysts, driving comprehensive assessment activities that supported the CDC's public health mission.
 - Directed Authorization & Accreditation workflows aligned with NIST SP 800-37 RMF and NIST 800-53 controls, overseeing audits, control assessments, and compliance documentation.
@@ -55,7 +55,7 @@ Strategic Cybersecurity Compliance Leader with 10+ years of experience directing
 - Acted as primary liaison with CDC stakeholders, delivering risk status, audit results, and strategic security guidance.
 - Led/Completed 25+ NIST RMF assessments annually, ensuring continuous accreditation readiness.
 
-#### DHA Contract (Aug 2020 – Oct 2024)
+##### DHA Contract (Aug 2020 – Oct 2024)
 **Position: Lead Information Systems Security Engineer**
 - Promoted from Information Systems Security Engineer to Information Systems Security Engineer Lead, overseeing implementation of RMF, NIST controls, and vulnerability management solutions across DHA information systems.
 - Integrated CISA/DISA guidance into actionable team projects and technical processes, influencing successful ATO certifications and transition from ATO-C to ATO for multiple government systems.
