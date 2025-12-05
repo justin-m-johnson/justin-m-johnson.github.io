@@ -40,8 +40,7 @@ Strategic Cybersecurity Compliance Leader with 10+ years of experience directing
 # Experience
 
 ### SeKON / Alpha Omega
-**Aug 2020 – Present**
-*Atlanta, GA (Remote)*
+*Aug 2020 – Present | Atlanta, GA (Remote)*
 #### CMMC Initiative (Sept 2025 – Present)
 **Position: Internal CMMC Consultant/Advisor**
 - Spearheaded the CMMC compliance initiative by providing Alpha Omega with several training sessions on the importance of CMMC and impact on the DIB.
