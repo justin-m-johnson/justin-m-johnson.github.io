@@ -14,9 +14,9 @@ Click [Here](https://justinmjohnson.com/assets/resume.pdf) for the PDF Version.
 - GitHub: [justin-m-johnson](https://github.com/justin-m-johnson)
 
 
-# Cybersecurity Project Manager
+# Senior GRC Strategist & CMMC Certified Assessor (CCA) (Soon-To-Be™ LCCA)
 
-Cybersecurity Project Manager with 10+ years’ experience leading large-scale cybersecurity strategies, risk management Projects, and IT governance for mission-critical organizations. Expert at translating business objectives into cohesive security Projects, aligning resources, and orchestrating diverse teams to achieve enterprise compliance and risk reduction goals. Skilled in designing and executing cross-functional initiatives covering Zero Trust, NIST RMF, and cloud security, with a proven record of delivering projects on time and within scope in regulated environments. Recognized for building collaborative partnerships with stakeholders, managing competing priorities, and driving measurable improvements to security posture, operational efficiency, and regulatory adherence.
+Strategic Cybersecurity Compliance Leader with 10+ years of experience directing multi-million dollar federal contracts and enterprise risk management programs. As a Certified CMMC Assessor (CCA) and PMP, specializes in translating complex regulatory requirements (NIST SP 800-171/53, NIST 800-37, RMF Framework, DFARS) into cohesive business strategies that ensure audit readiness without disrupting operations. Expert in guiding organizations through the full compliance lifecycle—from initial scoping and gap analysis to policy architecture and final remediation. Proven record of securing ATOs for mission-critical systems and building collaborative partnerships that align security posture with executive business goals.
 
 # Education
 
@@ -38,21 +38,24 @@ Cybersecurity Project Manager with 10+ years’ experience leading large-scale c
 
 # Experience
 
-## SeKON / Alpha Omega – CDC Contract
-- Oct 2024 - Present
-- Atlanta, GA (Remote)
-- Directed security project planning, managed a team of three (3) Security Stewards and Analysts, and drove project delivery to meet aggressive CDC and federal infosec deadlines.
-- Led and mentored teams of Cybersecurity Analysts and Security Stewards, managing cross-functional initiatives advancing the CDC’s public health technology mission.
-- Spearheaded strategic project management within the cybersecurity security stewards Project, overseeing planning, resource coordination, and risk mitigation for compliance and security enhancement.
-- Directed Authorization & Accreditation (A&A) workflows, including in-depth audits and control assessments, driving NIST SP 800-37 RMF processes and ensuring timely, accurate compliance documentation and reporting.
-- Chaired Configuration Control Board meetings governing critical configuration changes and risk management.
-- Established and disseminated cybersecurity monitoring and risk mitigation best practices during organizational transitions, improving process efficiency post-acquisition.
-- Served as primary interface for CDC and internal stakeholders, regularly communicating risk status, project updates, and strategic security recommendations.
-- Achievements - two (2) ATO's obtained in first year - 25+ annual assessments completed - Onboarded five (5) new information systems - Over 100 POA&M's remediated 
-  
+## SeKON / Alpha Omega - Aug 2020 to Present
+### Location: Atlanta, GA (Remote)
+#### CMMC Initiative - Sept 2025 to Present
+##### Position - Internal CMMC Consultant/Advisor
+- Spearheaded the CMMC compliance initiative by providing Alpha Omega with several training sessions on the importance of CMMC and impact on the DIB. 
+- Scoped the organizational enclave and identifying all contracts subject to DFARS 7012, 7019, and 7021 clauses, establishing the foundational requirements for the certification effort. 
+- Authored and implemented over 10 new security policies and procedures, closing critical gaps identified during the initial assessment and aligning organizational practices with CMMC Level 2 controls.
 
-## SeKON – DHA Contract, Information Systems Engineer
-- Aug 2020 – Oct 2024
+#### CDC Contract - Oct 2024 to Present
+##### Position - Cybersecurity Project Manager
+- Led and mentored a cybersecurity team of three Security Stewards and Analysts, driving comprehensive assessment activities that supported the CDC's public health mission. 
+- Directed Authorization & Accreditation workflows aligned with NIST SP 800-37 RMF and NIST 800-53 controls, overseeing audits, control assessments, and compliance documentation.  
+- Chaired Configuration Control Board meetings managing critical change and risk mitigation across multiple information systems during organizational transition.  
+- Acted as primary liaison with CDC stakeholders, delivering risk status, audit results, and strategic security guidance. 
+- Led/Completed 25+ NIST RMF assessments annually, ensuring continuous accreditation readiness.
+  
+#### DHA Contract - Aug 2020 to Oct 2024
+##### Position: Lead Information Systems Security Engineer
 - Atlanta, GA (Remote)
 - Promoted from Information Systems Security Engineer to Information Systems Security Engineer Lead, overseeing implementation of RMF, NIST controls, and vulnerability management solutions across DHA information systems.
 - Integrated CISA/DISA guidance into actionable team projects and technical processes, influencing successful ATO certifications and transition from ATO-C to ATO for multiple government systems.
@@ -62,20 +65,23 @@ Cybersecurity Project Manager with 10+ years’ experience leading large-scale c
 - Conducted comprehensive audits and assessments of cybersecurity practices and control implementations, verifying evidence and evaluating readiness for advanced compliance standards.
 - Achievements - Authored two (2) Standard Operating Procedures - Mentored five (5) engineers/analysts, driving team upskilling and streamlined compliance documentation. - Multiple recognitions from government leadership
 
-## Georgia Tech Research Institute, Information Systems Security Officer
+## Georgia Tech Research Institute,
+##### Position: Information Systems Security Officer
 
 - Nov 2018 – Aug 2020
 - Atlanta, GA
 - Implemented RMF and compliance documentation (JSIG, NIST, POAMs).
 - Weekly vulnerability scans and annual cybersecurity training for technical and non-technical staff.
 
-## Mount Vernon Towers, IT Technician
+## Mount Vernon Towers
+##### Position: IT Technician
 
 - July 2018 – Nov 2018
 - Atlanta, GA
 - Redesigned networks and managed day-to-day IT support for 200+ users.
 
-## Bay County Sheriff’s Office, Corporal, Field Services Division
+## Bay County Sheriff’s Office
+##### Position: Corporal, Field Services Division
 
 - July 2013 – July 2018
 - Panama City, FL
