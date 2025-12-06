@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Justin Johnson, PMP, CISSP, MBA, CCA
+title: Justin Johnson, PMP, CISSP, MBA, LCCA
 permalink: /about
 ---
 Click [Here](https://justinmjohnson.com/assets/resume.pdf) for the PDF Version.
@@ -14,8 +14,8 @@ Click [Here](https://justinmjohnson.com/assets/resume.pdf) for the PDF Version.
 - GitHub: [justin-m-johnson](https://github.com/justin-m-johnson)
 
 
-# Senior GRC Strategist & CMMC Certified Assessor (CCA) 
-#### (Soon-To-Be™ LCCA)
+# Senior GRC Strategist & Lead CMMC Certified Assessor (CCA) 
+
 
 Strategic Cybersecurity Compliance Leader with 10+ years of experience directing multi-million dollar federal contracts and enterprise risk management programs. As a Certified CMMC Assessor (CCA) and PMP, specializes in translating complex regulatory requirements (NIST SP 800-171/53, NIST 800-37, RMF Framework, DFARS) into cohesive business strategies that ensure audit readiness without disrupting operations. Expert in guiding organizations through the full compliance lifecycle—from initial scoping and gap analysis to policy architecture and final remediation. Proven record of securing ATOs for mission-critical systems and building collaborative partnerships that align security posture with executive business goals.
 
@@ -86,8 +86,9 @@ Strategic Cybersecurity Compliance Leader with 10+ years of experience directing
 
 # Current Certifications
 
-- CMMC-CCA, Cyber-AB
-- CMMC-CCP, Cyber-AB
+- CMMC-LCCA, Cyber-AB/CAICO
+- CMMC-CCA, Cyber-AB/CAICO
+- CMMC-CCP, Cyber-AB/CAICO
 - PMP, PMI
 - CISSP, ISC(2)
 - Azure Fundamentals, Microsoft
