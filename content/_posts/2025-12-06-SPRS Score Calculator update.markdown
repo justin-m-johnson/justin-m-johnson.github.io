@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Brutal Truth About Your CMMC Gap Analysis "
-summary: "(And Why -203 is a Real Score)"
+title: "Introducing POAM Management to the SPRS Calculator"
+summary: "From Assessment to Action"
 author: Justin Johnson
 date: '2025-12-6 04:30:23 +1530'
 img: /assets/img/posts/2025-12-6/image.png
