@@ -4,7 +4,7 @@ title: "CMMC Level 1 as a foundation for Level 2"
 summary: "This is the perfect warm-up"
 author: Justin Johnson
 date: '2025-12-23 04:30:23 +1530'
-img: /assets/img/posts/2025-12-23/image.jpg
+img: /assets/img/posts/2025-12-23/image.png
 keywords: CMMC, GovCon, Audits, CISO
 usemathjax: false
 imgdate: 2025-12-23
