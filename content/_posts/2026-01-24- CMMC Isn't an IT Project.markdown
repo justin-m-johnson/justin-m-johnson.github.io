@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "CMMC isn't an IT Project
-summary: "It's a Business Stategy"
+title: "CMMC Isn't an IT Project"
+summary: "It's a Business Strategy"
 author: Justin Johnson
 date: '2026-01-24 01:30:23 +1530'
-img: /assets/img/posts/2026-1-24/image.jpg
+img: /assets/img/posts/2026-01-24/image.jpg
 keywords: CMMC, GovCon, Audits, CISO
 usemathjax: false
 imgdate: 2026-01-24
